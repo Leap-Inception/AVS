@@ -101,10 +101,10 @@ const Hero: React.FC = () => {
 
       <div className="flexCenter">
         <button
-          onClick={handleNavigation}
+          onClick={handleDownload}
           className="bg-customblue text-white px-4 py-2 rounded-full"
         >
-          Ask Generative AI 
+          Download
         </button>
       </div>
 
