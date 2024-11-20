@@ -1,5 +1,6 @@
 import {
-  Boarding1
+  Boarding1,
+  Hero
 } from "./components";
 
 export default function Home() {
@@ -8,7 +9,7 @@ export default function Home() {
      
       <section className=" bg-primary flexStart">
         <section className="boxWidth">
-          <Boarding1 />
+          <Hero />
         </section>
       </section>
       
