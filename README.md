@@ -1,11 +1,7 @@
 # AVS
 
-[![Demo Video](https://via.placeholder.com/640x360.png?text=Click+to+play)](public/avs-video.mp4)
+![Demo Video](avs-image.png)
 
-<video width="640" height="360" controls>
-  <source src="public/avs-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 This an After Visit Summary project
@@ -100,7 +96,10 @@ Specializations:
     </a>
   </a>
 </p>
- -->
+-->
+
+
+
 ## 🗒️ Authors
 - The Leap Studio
 
