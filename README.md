@@ -1,6 +1,6 @@
 # AVS
 
-![Demo Video](public/avs-video.mp4)
+[![Demo Video](https://via.placeholder.com/640x360.png?text=Click+to+play)](public/avs-video.mp4)
 
 
 
