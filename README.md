@@ -46,10 +46,10 @@ An innovative app designed to help patients easily access, organize, and manage 
  
 ## 📌 How It Works 
 
-1- Open your After-Visit Summary (PDF).
-2- Swipe through cards to select the data you want to extract.
-3- Let AI extract and display your selected data in an organized format.
-4- Manage your appointments or find labs near you—all in one app!
+- 1- Open your After-Visit Summary (PDF).
+- 2- Swipe through cards to select the data you want to extract.
+- 3- Let AI extract and display your selected data in an organized format.
+- 4- Manage your appointments or find labs near you—all in one app!
 
 
 
