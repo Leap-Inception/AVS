@@ -1,16 +1,10 @@
-# AVS-A Modern UI/UX Landing Page using Next.JS and TailwindCSS
+# AVS
 
-![Screenshot 2023-08-11 213008](https://github.com/omunite215/AVS/assets/78680563/e33352b1-ff79-49e7-a9e1-4eaf995ce2c6)
+![Demo Video](avs-video.mp4)
 
 
 
-This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/_oO4Qi5aVZs?si=uIWyu_1FoElOJueH). Now it is made on next js using typescript.
-Features added other than Tutorial:-
-- Upgraded from Node.JS to Bun.JS (A Faster JavaScript Runtime).
-- Upgraded from JavaScript to TypeScript.
-- Upgraded from React.JS to Next.JS.
-- Added Fluid Animations using Framer-Motion.
-- Removed unused CSS and Optimized Code.
+This an After Visit Summary project
 
 ### Link to Figma File:
 
@@ -22,9 +16,7 @@ Features added other than Tutorial:-
   </a>
 </p>
 
-A website which is a product page of a Bank displaying its products features, clients , feedbacks and many more.
-
-### The project is hosted on Vercel : [AVS](https://AVS-alpha-nine.vercel.app/)
+### The project is hosted on Vercel : [AVS](https://avs-three.vercel.app/)
 
 ## :star: Give A Star
 
@@ -45,13 +37,13 @@ Before you start, make sure you have the following software installed on your co
 1. Clone the repository to your local machine
 
 ```bash
-  git clone https://github.com/omunite215/Project_AVS.git
+  git clone https://github.com/Leap-Inception/AVS.git
 
 ```
 2. Navigate to the project directory
 
 ```bash
-  cd Project_AVS
+  cd AVS
 ```
 3. Install the necessary dependencies
 ```bash
@@ -73,11 +65,13 @@ The website should now be up and running on http://localhost:3000.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma)](https://skillicons.dev)
 
-## 🚀 About Me
+## 🚀 About Us
 Specializations:
 - UI/UX Design.
 - Web Development
 
+
+<!-- This is a comment
 ## 🙋‍♂️ Connect With Me
 
 <p align="left">
@@ -102,13 +96,13 @@ Specializations:
     </a>
   </a>
 </p>
-
+ -->
 ## 🗒️ Authors
-- Om Patel
+- The Leap Studio
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <a href="https://github.com/omunite215">
+  <a href="https://github.com/LeapsTeam">
+    <a href="https://github.com/LeapsTeam">
       <img src="https://skillicons.dev/icons?i=github" />
     </a>
   </a>
