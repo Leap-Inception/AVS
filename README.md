@@ -1,6 +1,6 @@
 # AVS
 
-![Demo Video](avs-video.mp4)
+![Demo Video](public/avs-video.mp4)
 
 
 
