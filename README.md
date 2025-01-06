@@ -1,6 +1,6 @@
 # AVS
 
-![Demo Video](avs-image.png)
+![AVS](avs-image.png)
 
 
 
